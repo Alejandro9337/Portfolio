@@ -1,0 +1,16 @@
+{
+  // Advanced settings to resolve GitHub Copilot API compatibility issues
+  // These settings help ensure Copilot uses the latest API version
+  "github.copilot.advanced": {
+    "debug.overrideEngine": "gpt-4",
+    "debug.useNodeFetcher": true
+  },
+  // Enable Copilot for all file types in this workspace
+  "github.copilot.enable": {
+    "*": true,
+    "plaintext": true,
+    "markdown": true,
+    "python": true,
+    "jupyter": true
+  }
+}
