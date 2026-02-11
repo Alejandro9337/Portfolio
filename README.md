@@ -8,3 +8,11 @@
 - 📫 How to reach me: alejandro.agoraxxi@gmail.com
 - 😄 Pronouns: He.
 - ⚡ Fun fact: I like Power BI
+
+## 📝 Proyectos
+
+- **Análisis de Canales de YouTube**: Análisis de los factores que contribuyen al éxito de los canales de YouTube más vistos.
+
+## 🛠️ Configuración
+
+Si tienes problemas con GitHub Copilot en VS Code, consulta la [guía de solución](COPILOT_FIX.md).

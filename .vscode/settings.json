@@ -1,0 +1,13 @@
+{
+  "github.copilot.advanced": {
+    "debug.overrideEngine": "gpt-4",
+    "debug.useNodeFetcher": true
+  },
+  "github.copilot.enable": {
+    "*": true,
+    "plaintext": true,
+    "markdown": true,
+    "python": true,
+    "jupyter": true
+  }
+}
