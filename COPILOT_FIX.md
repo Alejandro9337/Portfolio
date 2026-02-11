@@ -70,6 +70,6 @@ Si los pasos anteriores no funcionan:
 
 ## Versiones recomendadas
 
-- VS Code: 1.85.0 o superior
+- VS Code: 1.95.0 o superior (se recomienda siempre usar la última versión)
 - GitHub Copilot Extension: última versión disponible
 - GitHub Copilot Chat Extension: última versión disponible (opcional)
